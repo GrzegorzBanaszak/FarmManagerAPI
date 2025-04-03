@@ -8,12 +8,12 @@ Aplikacja do zarządzania gospodarstwem rolnym udostepniająca kompleksowe rozwi
 - [Technologie](#technologie)
 - [Funkcje aplikacji](#-funkcje-aplikacji)
 
-
-
 ## 📝 Opis
+
 Celem projektu jest stworzenie interfejsu API umożliwiającego kompleksowe zarządzanie gospodarstwem rolnym. Aplikacja zapewnia funkcjonalności wspierające codzienne operacje, usprawniając organizację pracy oraz monitorowanie zasobów.
 
 ## 🚀 Funkcje aplikacji
+
 - **Zarządzanie zwierzętami** – ewidencja, monitorowanie zdrowia, harmonogramy karmienia.
 - **Zarządzanie polami** – rejestracja upraw, planowanie zasiewów, monitorowanie plonów, monitorowanie pogody.
 - **Zarządzanie pracownikami** – lista pracowników, harmonogramy pracy,tworzenie zadań, role i uprawnienia.
@@ -23,10 +23,9 @@ Celem projektu jest stworzenie interfejsu API umożliwiającego kompleksowe zarz
 
 Aplikacja została zaprojektowana z myślą o łatwej integracji z innymi systemami oraz skalowalności, co pozwala na jej dalszy rozwój zgodnie z potrzebami użytkowników.
 
-
 ### Technologie
 
-- ASP.NET 
+- ASP.NET
 - Microservices
 - Docker
 - Kubernetes (Minikube)
@@ -36,3 +35,6 @@ Aplikacja została zaprojektowana z myślą o łatwej integracji z innymi system
 - Swagger
 - JWT
 
+## Zarzażądzanie zwierzetami
+
+[Link relacji](https://dbdiagram.io/d/AnimalManagement-67eebbe04f7afba1844330f7)
